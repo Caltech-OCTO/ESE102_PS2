@@ -3,6 +3,7 @@ To run download the jupyter notebook, .nc and .mat files to your local computer.
 
 1. [xarray](https://docs.xarray.dev/en/stable/getting-started-guide/installing.html)
 2. [gsw](https://teos-10.github.io/GSW-Python/install.html): ```conda install -c conda-forge gsw```
-4. [PyCO2SYS](https://pyco2sys.readthedocs.io/en/latest/): ```pip install PyCO2SYS```
+3. [PyCO2SYS](https://pyco2sys.readthedocs.io/en/latest/): ```pip install PyCO2SYS```
+4. [netCDF4](https://unidata.github.io/netcdf4-python/)```pip install netCDF4```
 
    Alternatively, you can use the binder but be aware that you will lose your progress when the binder session ends.
