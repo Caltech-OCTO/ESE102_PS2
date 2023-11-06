@@ -5,3 +5,4 @@ netCDF4==1.6.4
 scipy==1.11.3
 gsw==3.6.16
 PyCO2SYS==1.8.2
+cmocean==3.0.3
